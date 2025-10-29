@@ -1,0 +1,13 @@
+mlflow
+optuna
+xgboost
+lightgbm
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+fastapi
+uvicorn
+joblib
+shap
